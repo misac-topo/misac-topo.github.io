@@ -1,0 +1,3 @@
+# Images folder
+
+This is the images folder. You put images in here...
